@@ -1,0 +1,100 @@
+Alice
+Dupont
+AD123456
+1995
+Informatique
+Departement Informatique
+85
+90
+78
+92
+Bob
+Martin
+BM654321
+1998
+Biologie
+Departement Sciences de la vie
+75
+88
+92
+80
+Charlie
+Lefevre
+CL987654
+1997
+Chimie
+Departement Chimie
+68
+72
+85
+79
+David
+Beaulieu
+DB567890
+1996
+Mathematiques
+Departement Mathematiques
+90
+85
+88
+91
+Eva
+Gagnon
+EG345678
+1999
+Physique
+Departement Physique
+82
+78
+91
+87
+Frank
+Tremblay
+FT234567
+1994
+Geologie
+Departement Geosciences
+70
+76
+83
+89
+Grace
+Rivard
+GR876543
+1997
+Informatique
+Departement Informatique
+88
+92
+95
+87
+Hugo
+Lamontagne
+HL345678
+1995
+Biologie
+Departement Sciences de la vie
+79
+84
+90
+88
+Ines
+Roy
+IR765432
+1998
+Chimie
+Departement Chimie
+75
+80
+87
+82
+Jack
+Boucher
+JB456789
+1996
+Mathematiques
+Departement Mathematiques
+91
+89
+93
+94
